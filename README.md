@@ -147,6 +147,7 @@ Paweł Bylica [@chfast]
 
 Licensed under the [Apache License, Version 2.0].
 
+Test commit 
 
 [@chfast]: https://github.com/chfast
 [appveyor]: https://ci.appveyor.com/project/chfast/evmone/branch/master
